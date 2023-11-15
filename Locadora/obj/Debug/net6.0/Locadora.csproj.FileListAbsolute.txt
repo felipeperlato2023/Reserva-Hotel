@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\bin\Debug\net6.0\Locadora.exe
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\bin\Debug\net6.0\Locadora.deps.json
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\bin\Debug\net6.0\Locadora.runtimeconfig.json
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\bin\Debug\net6.0\Locadora.dll
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\bin\Debug\net6.0\Locadora.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.dll
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\refint\Locadora.dll
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.pdb
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\Locadora.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\PROJETOS\Locadora\Locadora\obj\Debug\net6.0\ref\Locadora.dll
